@@ -9,7 +9,7 @@ A high-performance, real-time news portal application engineered to demonstrate 
 [![Build: Production](https://img.shields.io/badge/Build-Dynamic%20Data-success?style=flat-square)](https://github.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-</div>
+</div> 
 
 ---
 
